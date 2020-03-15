@@ -1,5 +1,7 @@
 # MetaMapLiteUtilities
-Utility scripts, test data, etc. for working with the MetaMapLite named entity recognizer.  For more information about MetaMapLite, see: [need canonical citation].
+Utility scripts, test data, etc. for working with the MetaMapLite named entity recognizer.  For more information about MetaMapLite, see https://www.ncbi.nlm.nih.gov/pubmed/28130331:
+
+Demner-Fushman, Dina, Willie J. Rogers, and Alan R. Aronson. "MetaMap Lite: an evaluation of a new Java implementation of MetaMap." Journal of the American Medical Informatics Association 24, no. 4 (2017): 841-844.
 
 # Scripts for preparing MetaMapLite input
 
